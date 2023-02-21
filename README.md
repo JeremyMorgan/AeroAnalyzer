@@ -1,6 +1,6 @@
 # AeroAnalyzer
 
-This was an application built live on [my Twitch Channel](https://www.twitch.tv/jeremymorgan) using only ChatGPT to build the code. 
+This was an application built live on [my Twitch Channel](https://www.twitch.tv/jeremymorgan) using only ChatGPT to build the code. [View the replay of the stream here](https://www.youtube.com/watch?v=Rt7CuhFv8xM)
 
 **Note**: This not my code!! 99% of it was written by ChatGPT using a series of prompts. 
 
